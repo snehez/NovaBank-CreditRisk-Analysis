@@ -1,8 +1,8 @@
 # 📊 Nova Bank – Credit Risk Analysis (Power BI)
 
-![Dashboard 1](Dashboard 1.png)  
-![Dashboard 2](Dashboard 2.png)  
-![Dashboard 3](Dashboard 3.png)  
+![Dashboard 1](Dashboard%201.png)  
+![Dashboard 2](Dashboard%202.png)  
+![Dashboard 3](Dashboard%203.png)   
 
 ---
 
